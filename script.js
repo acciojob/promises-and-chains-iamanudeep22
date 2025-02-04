@@ -18,6 +18,6 @@ function validate(){
             alert(error)
         })
 	}else{
-        alert("Please enter valid details.");
+        alert("Please enter valid details");
     }
 }
